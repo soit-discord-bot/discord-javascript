@@ -16,7 +16,7 @@ Working in Progress
 
 ## Steps
 clone the repository<br><br>
-<code>`$ git clone https://github.com/soit-discord-bot/discord-javascript.git`</code><br><br>
+<code>$ git clone https://github.com/soit-discord-bot/discord-javascript.git</code><br><br>
 
 run <code>npm run i</code> to install all related npm packages<br><br>
 <code>$ npm run i</code><br><br>
