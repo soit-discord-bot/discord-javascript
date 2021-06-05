@@ -1,0 +1,22 @@
+{
+  "name": "soit-discord",
+  "version": "1.0.0",
+  "description": "SoIT Discord Bot in Javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soit-discord-bot/discord-javascript.git"
+  },
+  "author": "SoIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soit-discord-bot/discord-javascript/issues"
+  },
+  "homepage": "https://github.com/soit-discord-bot/discord-javascript#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
